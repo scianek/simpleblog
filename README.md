@@ -5,5 +5,5 @@ Aplikacja posiada następujące podstrony:
 - /posts/{1,2,3}
 - /contact (**formularz z walidacją**)
 - /about
-
-###### Mateusz Ścianek
+Strona jest [dostępna publicznie](https://simpleblog-scianek.vercel.app/) i zawiera podstawowy design, layout oraz responsywność.
+Mateusz Ścianek
